@@ -1,0 +1,45 @@
+
+    
+Python and pip Installation Commands:
+1. Update the Package List:
+sudo apt-get update
+
+2. Install python3-distutils :
+sudo apt-get install python3-distutils
+
+
+3. Install python3-apt :
+sudo apt-get install python3-apt
+
+
+4. Install wget :
+sudo apt-get install wget
+
+5. Download get-pip.py :
+wget https://bootstrap.pypa.io/get-pip.py
+
+
+6. Install pip using get-pip.py :
+sudo python3 get-pip.py
+
+
+
+Mage AI and Library Installation Commands:
+1. Install Mage AI:
+
+sudo pip3 install mage-ai
+
+This installs Mage AI, a tool for building and deploying machine learning
+models.
+
+
+2. Install Pandas:
+sudo pip3 install pandas
+
+
+3. Install Google Cloud Library:
+sudo pip3 install google-cloud
+
+
+4. Install Google Cloud BigQuery Library:
+sudo pip3 install google-cloud-bigquery

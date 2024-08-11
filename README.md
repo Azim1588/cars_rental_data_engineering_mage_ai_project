@@ -78,10 +78,12 @@ This project is a data engineering pipeline that processes car rental customer d
 
 ## Mage AI Workflow
 
-![Mage AI](C:\\Users\\ABAIS\\OneDrive\\Desktop\\STEM\\Data_Eng_projects\\export.png)
-![Mage AI](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\load.png)
-![Mage AI](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\transform.png)
-![Mage AI](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\mage_dag.png)
+
+![Export](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\export.png)
+![Load](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\load.png)
+![Transform](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\transform.png)
+![Mage DAG](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\mage_dag.png)
+
 
 
 

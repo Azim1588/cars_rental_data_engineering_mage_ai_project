@@ -70,19 +70,19 @@ This project is a data engineering pipeline that processes car rental customer d
 
 ## Images
 
-![Architecture](C:\Users\ABAIS\OneDrive\Desktop\STEM\cars_rental_data_engineering_mage_project\Architecture.png.png)
+![Architecture](images\Architecture.png.png)
 
 ## Data Modeling
 
-![Data Modeling](C:\Users\ABAIS\OneDrive\Desktop\STEM\cars_rental_data_engineering_mage_project\Data_Modeling.png)
+![Data Modeling](images\Data_Modeling.png)
 
 ## Mage AI Workflow
 
 
-![Export](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\export.png)
-![Load](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\load.png)
-![Transform](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\transform.png)
-![Mage DAG](C:\Users\ABAIS\OneDrive\Desktop\STEM\Data_Eng_projects\mage_dag.png)
+![Export](images\export.png)
+![Load](images\load.png)
+![Transform](images\transform.png)
+![Mage DAG](images\mage_dag.png)
 
 
 

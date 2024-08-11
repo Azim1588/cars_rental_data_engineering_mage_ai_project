@@ -79,10 +79,10 @@ This project is a data engineering pipeline that processes car rental customer d
 ## Mage AI Workflow
 
 
-![Export](images\export.png)
-![Load](images\load.png)
-![Transform](images\transform.png)
-![Mage DAG](images\mage_dag.png)
+![Export](https://github.com/Azim1588/cars_rental_data_engineering_mage_ai_project/blob/main/images/export.png?raw=true)
+![Load](https://github.com/Azim1588/cars_rental_data_engineering_mage_ai_project/blob/main/images/load.png?raw=true)
+![Transform](https://github.com/Azim1588/cars_rental_data_engineering_mage_ai_project/blob/main/images/transform.png?raw=true)
+![Mage DAG](https://github.com/Azim1588/cars_rental_data_engineering_mage_ai_project/blob/main/images/mage_dag.png?raw=true)
 
 
 

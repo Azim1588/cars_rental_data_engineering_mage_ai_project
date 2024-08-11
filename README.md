@@ -70,7 +70,7 @@ This project is a data engineering pipeline that processes car rental customer d
 
 ## Images
 
-![Architecture](images\Architecture.png.png)
+![Architecture](C:\Users\ABAIS\OneDrive\Desktop\STEM\cars_rental_data_engineering_mage_project\images\Architecture.png.png)
 
 ## Data Modeling
 
